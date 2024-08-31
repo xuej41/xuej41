@@ -1,6 +1,7 @@
-## Hello World, I'm [Josh!](https://www.linkedin.com/in/joshua-xue/) 
+## Hello World, I'm Josh! <a href="https://www.linkedin.com/in/joshua-xue/"><img width="16px" src="https://cdn.simpleicons.org/linkedin"  /></a>
 
-<div>
+
+<div align="center">
     <img src="./images/sigma_lone_wolf.gif" alt="gif" width="500px">
 </div>
 
@@ -20,6 +21,6 @@ Here are some ideas to get you started:
 -->
 
 ### About Me 🚀
-🌱 I’m an engineer pursuing a degree in Computer Engineering.
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
-😈 I'm a sigma.
+🌱 I’m an engineer pursuing a degree in Computer Engineering. <br/>
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things. <br/>
+😈 I'm a sigma. <br/>
