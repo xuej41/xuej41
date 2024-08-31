@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World, I'm [Josh!](https://www.linkedin.com/in/joshua-xue/) 
+
+<div>
+    <img src="./images/sigma_lone_wolf.gif" alt="gif" width="500px">
+</div>
 
 <!--
 **rulbirt/rulbirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 🚀
+🌱 I’m an engineer pursuing a degree in Computer Engineering.
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+😈 I'm a sigma.
