@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 🌱 I’m an engineer pursuing a degree in Computer Engineering. <br/>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. <br/>
 😈 I'm a sigma. <br/>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rulbirt" alt="Stats" width="381px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakmangames&layout=compact" alt="Top Langs">
+<p>
