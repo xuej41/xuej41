@@ -1,9 +1,10 @@
-## Hello World, I'm Josh! <a href="https://www.linkedin.com/in/joshua-xue/"><img width="16px" src="https://cdn.simpleicons.org/linkedin"  /></a>
-
+## Hello World, I'm [Josh!](https://www.linkedin.com/in/joshua-xue/)
 
 <div align="center">
-    <img src="./images/sigma_lone_wolf.gif" alt="gif" width="500px">
+    <img src="./images/sigma_lone_wolf.gif" alt="gif" width="400px">
 </div>
+
+---
 
 <!--
 **rulbirt/rulbirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +29,11 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rulbirt" alt="Stats" width="381px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakmangames&layout=compact" alt="Top Langs">
-<p>
+</p>
+
+---
+
+<h3>📫 Connect with me on LinkedIn</h3>
+<a href="https://www.linkedin.com/in/joshua-xue/" target="_blank">
+    <img width="50px" src="https://cdn.simpleicons.org/linkedin">
+</a>
