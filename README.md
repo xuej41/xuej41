@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 🚀
+### 🚀 About Me
 🌱 I’m an engineer pursuing a degree in Computer Engineering. <br/>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. <br/>
 😈 I'm a sigma. <br/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3>📫 Connect with me on LinkedIn</h3>
+### 📫 Connect with me on LinkedIn
 <a href="https://www.linkedin.com/in/joshua-xue/" target="_blank">
     <img width="50px" src="https://cdn.simpleicons.org/linkedin">
 </a>
