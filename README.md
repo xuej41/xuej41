@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 😈 I'm a sigma. <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xuej41" alt="Stats" width="300px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuej41&layout=compact" alt="Top Langs" width="339px">
+    <img src="https://github-readme-stats.vercel.app/api?username=xuej41" alt="Stats" width="350px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuej41&layout=compact" alt="Top Langs" width="275px">
 </p>
 
 ---
