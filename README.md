@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. <br/>
 😈 I'm a sigma. <br/>
 
+---
+
 ### 📚 Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
