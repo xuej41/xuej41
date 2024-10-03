@@ -3,6 +3,9 @@
 <div align="center">
     <img src="./images/sigma_lone_wolf.gif" alt="gif" width="400px">
 </div>
+<div align="center">
+    <img src="./images/sigma_mode_on.gif" alt="sigma mode on" width="400px">
+</div>
 
 ---
 
