@@ -1,4 +1,4 @@
-## Hello World, I'm [Josh!](https://www.joshx.tech/)
+# Hello World, I'm [Josh!](https://www.joshx.tech/)
 
 <div align="center">
     <img src="./images/sigma_lone_wolf.gif" alt="gif" width="400px">
@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 About Me
-🌱 I’m an engineer pursuing a degree in Computer Engineering. <br/>
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things. <br/>
+## 🚀 About Me
+🌱 I’m currently a 2nd year Computer Engineering student at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>. <br/>
+👨‍💻 I am passionate about hardware and web development and I enjoy learning new things. <br/>
+💼 I am currently seeking <strong>Summer 2026</strong> Internships or Co-ops. <br/>
 😈 I'm a sigma. <br/>
 
 ---
 
-### 📚 Skills
+## 📚 Skills
 <p align="center">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> -->
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> -->
     <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
     <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> -->
@@ -65,7 +66,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 📫 Connect with me on LinkedIn
+## 📫 Connect with me
 <a href="https://www.linkedin.com/in/joshua-xue/" target="_blank">
-    <img width="50px" src="https://cdn.simpleicons.org/linkedin">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" alt="LinkedIn">
+</a>
+<a href="https://andypak.me/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white" height="30px" alt="Portfolio">
 </a>
