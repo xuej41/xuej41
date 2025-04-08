@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 💼 I am currently seeking <strong>Summer 2026</strong> Internships or Co-ops. <br/>
 😈 I'm a sigma. <br/>
 
+![](https://komarev.com/ghpvc/?username=xuej41&base=64321)
 ---
 
 ## 📚 Skills
