@@ -1,4 +1,4 @@
-# Hello World, I'm [Josh!](https://www.joshx.tech/)
+# Hello World, I'm Josh!
 
 <div align="center">
     <img src="./images/sigma_lone_wolf.gif" alt="gif" width="400px">
