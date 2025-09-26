@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with me
 <a href="https://www.linkedin.com/in/joshua-xue/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" alt="LinkedIn"></a>
-<a href="https://joshx.tech/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white" height="30px" alt="Portfolio"></a>
+<a href="https://joshx.ca/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white" height="30px" alt="Portfolio"></a>
