@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 🌱 I’m currently a 2nd year Computer Engineering student at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>. <br/>
-👨‍💻 I am passionate about hardware and web development and I enjoy learning new things. <br/>
+👨‍💻 I am passionate about hardware and I enjoy learning new things. <br/>
 💼 I am currently seeking <strong>Summer 2026</strong> Internships or Co-ops. <br/>
 😈 I'm a sigma. <br/>
 
