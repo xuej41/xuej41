@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🌱 I’m currently a Computer Engineering student at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>. <br/>
 👨‍💻 I am passionate about hardware and I enjoy learning new things. <br/>
 💼 I am currently seeking <strong>Summer 2026</strong> Internships or Co-ops. <br/>
-😈 I'm a sigma. <br/>
+<!-- 😈 I'm a sigma. <br/> -->
 
 ![](https://komarev.com/ghpvc/?username=xuej41)
 ---
